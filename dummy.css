@@ -1,0 +1,9 @@
+p1{border: 10px solid red;
+    margin-left: 20px;
+    /* width: 50%;} */}
+ img{
+     width: 200px;
+     height:200px;
+     border-left: 50px solid red;
+     border-right: 50px solid green;
+    } 
